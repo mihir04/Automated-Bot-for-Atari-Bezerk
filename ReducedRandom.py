@@ -8,14 +8,6 @@ import random
 import numpy
 from gym import wrappers, logger
 
-"""
-@author1 : Mihir Shah
-@Email_id : ms8830@g.rit.edu
-
-@author2: Swapnil Shah
-@Email_id: sss4174@g.rit.edu
-"""
-
 class Agent(object):
     """The world's simplest agent!"""
 
