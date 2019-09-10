@@ -6,10 +6,6 @@ import gym
 import math
 from gym import wrappers, logger
 
-"""
-@author1 : Mihir Shah
-@Email_id : ms8830@g.rit.edu
-"""
 class Agent(object):
     """The world's simplest agent!"""
     def __init__(self, action_space):
